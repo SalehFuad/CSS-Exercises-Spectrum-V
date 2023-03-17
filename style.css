@@ -1,0 +1,28 @@
+.heading-1 {
+  font-family: "Permanent Marker", cursive;
+  text-align: center;
+}
+.art {
+  margin: 0 auto;
+}
+.size {
+  padding: 100px;
+  width: 150;
+  height: 300px;
+  border: 6px solid white;
+}
+.one {
+  background-color: #247ba2;
+}
+.two {
+  background-color: #70c1b3;
+}
+.three {
+  background-color: #b2dbbf;
+}
+.four {
+  background-color: #f3ffbd;
+}
+.five {
+  background-color: #ff1654;
+}
